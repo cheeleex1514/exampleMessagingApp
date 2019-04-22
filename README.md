@@ -1,4 +1,7 @@
 # exampleMessagingApp
+Description:
+A simple app that will allow a user to select a guest and generated a message from message template or create a custom message.
+
 Requirements:
 Java JRE 6+
 
