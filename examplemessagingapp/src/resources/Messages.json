@@ -1,0 +1,12 @@
+[
+   {
+      "id":1,
+      "messageType":"greeting",
+      "message":"{@timeSetting} {@firstName}, and welcome to {@companyName}! Room {@roomNumber} is now ready you. Enjoy your stay, and let us know if you need anything."
+   },
+   {
+      "id":2,
+      "messageType":"goodbye",
+      "message":"Thank you for choosing {@companyName}! We hope you have enjoyed your stay! We cannot wait to see you soon {@firstName}!"
+   }
+]
